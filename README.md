@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm" /> 
 </p>
 
+
+<!-- 
+
+
 ___
 
 
@@ -21,7 +25,7 @@ ___
 not in the mood to fuck around.
 ```
 
-<!-- <hr> 
+<hr> 
 <p align="center">
   <img src="https://github.com/fxmiko/fxmiko/blob/master/assets/coding-hoodie.gif" alt="GIF is being loaded">
 </p>
