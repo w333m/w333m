@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-php-black?style=flat-square&logo=php&logoColor=e34f26" />
   <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=1572b6" /> <br>
-  <img src="https://img.shields.io/badge/-xampp-black?style=flat-square&logo=Xampp" />  
   <img src="https://img.shields.io/badge/-Vim-black?style=flat-square&logo=Vim" />  
   <img src="https://img.shields.io/badge/-PowerShell-black?style=flat-square&logo=Powershell" />  
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" /> <br>
