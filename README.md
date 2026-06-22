@@ -1,10 +1,8 @@
 <h1 align="center">
-<img width="300" alt="banner" src="https://github.com/user-attachments/assets/4ffc27d3-3550-4ad9-a1a5-65747e527984" />
+  <img width="300" alt="banner" src="https://github.com/user-attachments/assets/4ffc27d3-3550-4ad9-a1a5-65747e527984" />
 </h1>
-<p align="center">"You throw yourself entirely into your tasks and find ways to be more efficient than anyone else."</p>
-<div align="center">
-</div>
-
+  <p align="center"><i><sub>"You throw yourself entirely into your tasks and find ways to be more efficient than anyone else."</sub></i></p>
+  
 ```
 letter for the broken soul; 
 
